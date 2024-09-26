@@ -1,0 +1,16 @@
+.element1 {
+    color: white;
+    background-color: black;
+}
+
+.element1, .element2 {
+    font-size: 60px;
+    border-width: 4px;
+    border-color: rgb(128, 128, 128);
+    padding: 10px;
+}
+
+.element2 {
+    color: black;
+    background-color:  yellow;
+}
